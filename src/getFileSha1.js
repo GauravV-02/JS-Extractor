@@ -1,3 +1,4 @@
+// Returns the Sha1 digest for a file at the given path
 var sha1 = require('../../node_modules/js-sha1/src/sha1');
 
 module.exports = {

@@ -1,3 +1,4 @@
+// Returns the file name without path
 module.exports = {
     
         getFileName: function(path)
